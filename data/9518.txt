@@ -1,0 +1,24 @@
+WhatsApp says it will comply with Delhi HC order over Facebook data
+Delhi HC told WhatsApp to completely delete all data of users who chooses to opt out of the instant messaging app Delhi HC told WhatsApp to completely delete all data of users who chooses to opt out of the instant messaging app
+
+WhatsApp has said that it won’t be sharing information with Facebook as planned. According to the company, an earlier report incorrectly claimed that WhatsApp would defy the Delhi High Court order which asked it not to share user data collected up to September 25 with its parent company Facebook.
+
+A WhatsApp spokesperson later said the quote attributed to them in the story was wrong. The story was first reported by Mashabla India, and later by news agency IANS.
+
+“WhatsApp will comply with the order from the Delhi High Court. We plan to proceed with the privacy policy and terms update in accordance with the Court’s order. The Court’s emphasis on the importance of user choice and consent is encouraging,” the spokesperson said. However WhatsApp has not confirmed whether it has already deleted all the data or not or if it has started the process of deleting this data.
+
+It should be noted the High Court order does not specifically mention a date by when WhatsApp should delete this data.
+
+It only says, “If the users opt for completely deleting “WhatsApp” account before 25.09.2016, the information/data/details of such users should be W.P.(C) No.7663/2016 Page 15 of 15 deleted completely from “WhatsApp” servers and the same shall not be shared with the “Facebook” or any one of its group companies… So far as the users who opt to remain in “WhatsApp” are concerned, the existing information/data/details of such users upto 25.09.2016 shall not be shared with “Facebook” or any one of its group companies.”
+
+The court order also acknowledges that users who don’t wish to have their data shared with Facebook have the option of not doing so, and can opt-out. WhatsApp which is end-to-end encrypted by default claims that it is using this information (such as log-records, online status, phone numbers, etc) sharing to help improve ad experience on Facebook. How this will work is left unclear.
+
+Also read: WhatsApp’s privacy policy is bigger than just sharing info with Facebook
+
+Earlier, a division bench of Chief Justice G. Rohini and Justice Sangita Dhingra Sehgal said on September 23 that WhatsApp will not share users’ data collected under its old privacy policy over the years up to September 25, 2016, with Facebook or any other related company.
+
+WhatsApp has to completely delete all data of users who chooses to opt out of the instant messaging app after the coming into force of its new privacy policy, said the court. The court also said that WhatsApp will delete users’ data up to September 25, even of those who choose not to opt out of the instant messaging app and agree with new privacy policy.
+
+Facebook and WhatsApp are also facing trouble in Germany over this data-sharing with the German Privacy watchdog ordering Facebook to delete whatever data it has received from WhatsApp. Unlike India where there are no specific privacy laws to deal with user data and how it shared, stored, etc, Germany has strict data privacy laws.
+
+© The Indian Express Online Media Pvt Ltd

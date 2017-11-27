@@ -1,0 +1,134 @@
+Police surveillance: The US city that beat Big Brother
+Image copyright Carlos Avila Gonzalez/SF Chronicle /Polaris
+
+Mass surveillance of citizens without their knowledge is on the rise in America. This is the story of how one city fought back - and is teaching others how to do the same.
+
+A deprived port city, across the bay from San Francisco, with a history of high crime rates and radical politics, Oakland has seen its share of policing scandals over the years.
+
+Surveillance of ordinary citizens and protest groups - from the Black Panthers in the 1960s to Occupy Oakland in the 2000s - is nothing new in California's eighth largest city.
+
+"Police-community relations in Oakland are terrible," says Ali Winston, a reporter with the East Bay Express. "They have been terrible for a long time."
+
+But Winston and his colleague Darwin BondGraham were still not fully prepared for what they would discover in the summer of 2012, when they were going through court records and council papers.
+
+Find us on Facebook
+
+"We saw some things that raised questions. Why are they running fibre optic cables out there? That kind of thing," says BondGraham.
+
+Winston recognised the name of a security company on a council agenda and knew immediately what they were dealing with - a Domain Awareness Centre.
+
+Image copyright Getty Images Image caption Occupy Oakland protesters shut down the city's port in 2011
+
+Most cities, including Oakland, have cameras monitoring traffic intersections and public areas. But a Domain Awareness Centre, or DAC, is far more sophisticated. It is still based around a bank of screens, but the camera feeds are augmented by data from weather reports, shipping movements, social media chatter, email records, emergency calls and other data sources.
+
+The port of Oakland had been given federal funds in 2008 to build a DAC as part of a post-9/11 push to protect critical infrastructure from terrorist attack.
+
+At some point, the city council decided to extend the system to cover the whole of Oakland and its population of 400,000 people.
+
+"The feeling from the port seemed to be, 'We are building these really cool systems, why don't we make them city-wide?'," says BondGraham.
+
+Hundreds of new cameras would be installed across the city and data would be incorporated from from licence plate readers, gunshot-detection microphones, social media, and, in later phases, facial recognition software and programmes that can recognise people from the way they walk.
+
+The city said it needed an early warning system to give "first responders" a head start when dealing with emergencies like chemical spills and earthquakes, as well as major crime and terrorist incidents.
+
+But privacy campaigners in the city were alarmed at the thought of the Oakland Police Department having access to an all-pervasive real-time surveillance network. Particularly one that did not have a policy on what data would be stored and for how long.
+
+The public backlash began in the summer of 2013, just as Edward Snowden's first leaks about the National Security Agency's spying activities were hitting the headlines.
+
+Image copyright Reuters Image caption Edward Snowden's revelations sparked a huge debate about privacy and data
+
+Snowden ignited a "huge" public debate about privacy and data, says Brian Hofer, a former civil rights attorney who led efforts to curb the DAC, which had barely registered as an issue when the plan to expand it citywide had first come before the city council.
+
+Hofer was a relative latecomer to the Oakland Privacy campaign, deciding to get involved after reading a December 2013 article in the East Bay Express, based on thousands of leaked emails between city officials, which suggested that the real purpose of the DAC was not to combat violent crime but to monitor and track political protesters.
+
+He was among dozens of Oakland residents to speak out against the DAC at a marathon city council meeting on 4 March, 2014, at which the fate of the system would be decided.
+
+By now, stopping the Oakland "spy centre" had become a cause celebre among former Occupy protesters. Some of them waited their turn, their faces covered by masks, to vent their anger.
+
+The meeting also heard from members of the African American community, who argued that the DAC would be used to justify police violence in black neighbourhoods, and from Oakland's large Muslim community, who were concerned that the DAC would be used to spy on them.
+
+What linked them all was a visceral distrust of the authorities and a feeling that they did not want to live in a city where they would be constantly monitored as they went about their business. A PowerPoint presentation by city officials on the alleged benefits of the DAC did nothing to mollify them.
+
+With the city council tied on the issue, Oakland's then mayor Jean Quin, who had originally been in favour of the DAC, used her casting vote to back a motion that would dramatically scale it back so that it would be focused solely on the port, as originally planned.
+
+The public gallery erupted with cries of "shame" - the majority of those present that night had wanted the DAC scrapped altogether.
+
+Image copyright Getty Images Image caption Police-community relations are under strain in Oakland
+
+But others believe the city's leaders caved in too easily to the protesters.
+
+"Occupy are the people that don't want the cameras," says Nancy Sidebothan, who chairs a neighbourhood crime prevention committee in Central East Oakland.
+
+"It's not the ordinary citizens. We want cameras. We want our safety. Because you can't walk down your street without worrying about whether someone is going to randomly shoot at you. Every night you hear gun shots going off."
+
+Oakland is a high-crime city, averaging 109 homicides a year for the past 45 years. Many residents and businesses have invested in their own security cameras and are happy to share their contents with law enforcement.
+
+"If you don't want government to put cameras downtown, what are you hiding from, that you think is going to get picked up on a camera?" says Sidebothan.
+
+Image copyright Amanda Reddig Ferreira Image caption Brian Hofer is chairman of Oakland's new privacy watchdog
+
+Brian Hofer agrees that security cameras can prevent crime but says there is no evidence that mass surveillance does. And he argues that police departments only turn to "shiny gadgets" when relations with the public they are meant to protect, and on who they rely as witnesses, have broken down.
+
+"Instead of trying to repair these relationships we are just throwing more surveillance equipment at the problem. We are smart people here in Oakland. We have Silicon Valley right up the road and we just think all these new tools are going to solve our problems but it just doesn't work."
+
+The city council's decision to limit the DAC was a victory for Oakland Privacy and Hofer, who has since been elected chair of the city's first Privacy Advisory Commission, which has been given the task of scrutinising every new piece of equipment the police department wants to buy.
+
+He says he has had a largely positive response form city officials and police chiefs, and is working with other Bay Area administrations to improve accountability. Oakland Privacy is also in talks with campaigners in New York and Baltimore - where concern about secret police surveillance of poor, black neighbourhoods is, if anything, even higher than in Oakland - about how they can fight back.
+
+"It is not about prohibiting the use of surveillance equipment, it is about narrowing its scope," he says.
+
+Hofer's committee began public hearings last month in to Oakland Police Department's use of Stingrays - fake cell phone masts that can be used to track suspects.
+
+Image copyright Getty Images Image caption Campaigners across America are pushing for greater control of surveillance
+
+This is a level of accountability that exists in few other places in the US, where, according to American Civil Liberties Union (ACLU) national executive director Anthony Romero, surveillance equipment is "acquired in secret and used in secret" often without the knowledge of elected officials, let alone the public.
+
+This week the ACLU launched proposed legislation in 11 US cities, including New York and Washington DC, that would, if passed, establish community control over police surveillance.
+
+The initiative is inspired, in part, by the Black Lives Matter campaign, although many of the guidelines, such as an annual surveillance audit, come straight from the Oakland Privacy playbook.
+
+"People of colour have long been the targets of government surveillance - but today's technology makes it more concerning than ever," said Alvaro Bedoya, executive director of Georgetown University's Privacy and Technology Centre at the launch of the scheme.
+
+"Communities are being confronted with the very real possibility that law enforcement is tracking them wherever they go - at work, school, places of worship and political gatherings.
+
+"People need to feel safe in their neighbourhoods, and this new effort is an important step in the process of taking back control."
+
+Equipment catalogue
+
+Image copyright AP
+
+Many of the systems being offered for sale to law enforcement agencies across the US, and around the world, were developed by defence giants for use on the battlefields of Iraq and Afghanistan. Here is a small selection:
+
+Stingray fake phone masts
+
+About the size of a suitcase, Stingrays work by pretending to be a phone tower in order to strip data from nearby devices, enabling police to track suspects without a warrant. They are also capable of accessing the content of calls and texts. The next generation of the device, Hailstorm, is now on the market.
+
+Licence plate readers
+
+Police cars mounted with automatic license plate readers are thought to be in use in many US cities, gathering data on the location and movements of drivers. Research in Oakland found black neighbourhoods were being disproportionally targeted.
+
+Crime prediction software
+
+Software is being used by police in the US and UK that analyses crime statistics to predict where it will happen next. Microsoft, IBM and Hitachi are among the big players moving in to this market. The latest Hitachi "crime visualisation" software - effectively a Domain Awareness Centre on your computer desktop - is being trialled in Washington DC and is demonstrated in this YouTube video. There is also growing concern about the use of social media analysis software, which monitors hashtags such as BlackLivesMatter and PoliceBrutality to identify "threats to public safety".
+
+Surveillance enabled light bulbs
+
+LED light bulbs marketed as energy-efficient upgrades to existing light bulbs on city streets that can contain tiny cameras and microphones linked to a central monitoring station.
+
+Through the wall sensors
+
+These use radar to peer through the walls of buildings - currently precise enough to show how many people are in a particular room.
+
+X-Ray, or 'backscatter" vans
+
+Mobile units that use X-ray radiation to see underneath clothing and car exteriors.
+
+Aerial surveillance
+
+The use of light aircraft to record continuous high definition footage of a city - recently discovered, and stopped, in Baltimore, following a public outcry. Police departments across the US, and in cities around the world, are also buying drones for surveillance.
+
+Listening devices
+
+Shotspotter microphones have been around for more than a decade and are thought to be in use in at least 90 US cities. They are designed to improve police response times but there are concerns they could be used to listen in to conversations.
+
+Join the conversation - find us on Facebook, Instagram, Snapchat and Twitter.

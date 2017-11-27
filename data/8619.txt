@@ -1,0 +1,52 @@
+Car industry puts cooperation on show in battle against Silicon Valley firms
+Graphic depicts the range of sensor information feeding a new set of live traffic services digital mapping company HERE is introducing ahead of the Paris Motor Show in conjunction with automakers Audi, BMW, Mercedes-Benz and other, yet-to-be-named automotive partners....
+
+PARIS/FRANKFURT Alarmed by the threat posed by Silicon Valley firms to their businesses in developing autonomous driving systems, it was evident at the Paris Motor Show this week that carmakers are seeking to fight back by cooperating in areas of technology development where previously they might have tried to compete.
+
+Three big carmakers - BMW (BMWG.DE), Daimler (DAIGn.DE) and VW's (VOWG_p.DE) Audi - announced earlier this week they would launch new traffic monitoring services next year which give drivers a view of road conditions along their entire route, based on video data collected by their jointly-owned navigation mapping services firm HERE from sensors incorporated in other cars (reut.rs/2dabC1B).
+
+Meanwhile HERE's Dutch rival TomTom NV (TOM2.AS), on Thursday announced traffic data deals for truckmaker Volvo (VOLVb.ST) and carmaker Skoda, a VW subsidiary.[L8N1C50UB]
+
+Connecting cars on the move with the Internet also needs more reliable mobile telecoms networks and towards that end Germany's top automakers said this week they were teaming up with the telecoms network equipment makers Ericsson(ERICb.ST), Huawei[HWT.UL], Nokia (NOKIA.HE), Qualcomm (QCOM.O) and Intel(INTC.O) to help with developing the next-generation 5G networks set to debut around 2020 (reut.rs/2dcPuCy).
+
+It's unfamiliar territory for carmakers who are unaccustomed to cooperating as they battle for distinctive features that will help drive sales of their latest model vehicles.
+
+"This is how the automotive industry may be able to fight off the threat that Apple (AAPL.O) and particularly Google (GOOGL.O) represent to their brands as digital services become more and more important," technology investment analyst Richard Windsor said.
+
+Moreover, carmakers are now racing one another to plot their paths to building self-driving vehicles over the next five years.
+
+That's a dramatic acceleration from the 10- to 15-year timeframes many had charted until pushed to speed up the process by the advances made by Google and Tesla (TSLA.O).
+
+"We see the car transforming from a product into the ultimate platform," Daimler Chairman Dieter Zetsche said.
+
+Now General Motors (GM.N), Nissan (7201.T) and VW are also experimenting with a plan to pull video data captured by their customers' vehicles using Israeli firm Mobileye's (MBLY.N) camera-based sensor systems, that may soon give automakers an edge over the likes of Google in the precision-mapping required for driverless cars (reut.rs/2daj3Wr).
+
+However, it remains to be seen whether carmakers can charge premium prices for connected car services as technology companies like Google look to develop similar offerings for free, supported by advertising or other business models.
+
+A deal by traffic data start-up Inrix to supply Google-owned crowd-sourced mapping unit Waze with its data will help drivers find parking spots on their smartphones via a free app.
+
+And on Thursday Renault (RENA.PA) said it was working with Waze on a Google Android Auto protoype for a navigation app that besides showing traffic conditions will also identify 13,000 electric car-charging stations across France.
+
+CAREFUL DRIVING
+
+Some in the industry are also cautioning that the move to developing fully autonomous driving should remain a very gradual one. Earlier this month pioneering electric car maker Tesla was accused by Mobileye of "pushing the envelope in terms of safety", alleging that it had promoted its Autopilot driver assistance system as "hands-free" (reut.rs/2d5lUiG).
+
+Other carmakers, while reluctant to address the dispute directly, are keen to emphasize that the move to developing truly autonomous vehicles remains a very gradual one."There can be no compromise on safety, which is absolutely crucial – that is why at PSA we've always believed autonomy will happen in incremental steps," PSA Chief Executive Carlos Tavares said in an interview published earlier this month.
+
+"This is not the case for certain competitors who have tried to produce a fully autonomous vehicle right away."
+
+Among car companies there are two camps: Those who are trying to develop their autonomous driving technology in-house, and those who are outsourcing it.
+
+Fiat's recent partnership to build self-driving vans with Google is seen by analysts as an example of outsourcing, given the Italian auto maker's weak finances, limiting its ability to invest in its own software expertise (reut.rs/1ZatE2c).
+
+Daimler, on the other hand, is firmly in the camp of those auto makers who want to go it alone.
+
+Some partnerships like the deal between Chinese carmaker Geely's (0175.HK) Swedish subsidiary Volvo Car Group's deal to develop autonomous cars with Uber Technologies [UBER.UL], and General Motor's partnership with Uber's rival Lyft, are seen as hybrid approaches to such cooperation.
+
+"The automotive industry has and will continue to become a software business in many ways," Audi of America President Scott Keogh told Reuters.
+
+"We are either capable of doing it in-house or we are going to all the partners that we need to go to, whether it's Nvidia (NVDA.O), Mobileye or HERE."
+
+(The story has been refiled to fix typographical error in first paragraph)
+
+(Editing by Greg Mahlich)

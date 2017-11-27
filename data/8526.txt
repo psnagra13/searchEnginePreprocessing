@@ -1,0 +1,18 @@
+Google app update on iOS brings Incognito Mode, YouTube integration
+Google app on iOS now gets Touch ID integration for incognito mode, allowing only the user to enter an existing session (Source: Google) Google app on iOS now gets Touch ID integration for incognito mode, allowing only the user to enter an existing session (Source: Google)
+
+Google recently updated its search app for iOS, with the company claiming will make the app will be a lot more stable and video-friendly. The Incognito mode is also coming to Google Search app for iOS.
+
+Incognito mode is also present on Chrome browser and allows for private browsing. According to Google, “Your searches are your business” and this why the company has introduced the ability to search privately using the incognito mode. Using this mode, a user’s browsing and search history will not be saved. There is also a Touch ID integration for the Incognito mode. This ensures only the user can enter an existing session on Incognito mode via the touch ID, thus ensuring that others can access this page.
+
+It is also now possible to watch YouTube videos right in the Search. Clicking on a YouTube video will no longer create a new web page and will also reduce loading time.
+
+Google has also made general improvements to the search app which the company claims will make it “twice as reliable” and less likely to crash – the company claims a 50 per cent reduction in crash rates. The update also brings improved compatibility with iOS 10.
+
+Apple devices that support 3D touch can now enter incognito mode by hard-pressing on the Google app icon and selecting ‘Incognito mode’ in the drop down menu.
+
+Read- Google Allo app: Chatting with Google Assistant, Incognito mode and other features
+
+Google has recently shown interest in offering ‘incognito’ modes across the apps lineup. The new chat app by Google – Allo, also has the option of incognito chats. Such chats are end-to-end encrypted, meaning the data is not stored on Google’s servers and if deleted from the device, it is deleted forever. Each message in such a chat can have an expiration time; anything like 5 seconds, a minute, a day, a week or never.
+
+© The Indian Express Online Media Pvt Ltd

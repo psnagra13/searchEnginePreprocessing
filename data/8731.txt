@@ -1,0 +1,16 @@
+Google, Microsoft, Facebook, IBM, and Amazon Announce 'Partnership on AI'
+In a major boost to artificial intelligence (AI) research, five top-notch tech companies - Facebook, Amazon, Google, IBM and Microsoft - have joined hands to announce a historic partnership on AI and machine learning.
+
+Called the Partnership on Artificial Intelligence to Benefit People and Society - or Partnership on AI for short, it means that these companies will discuss advancements and conduct research in AI and how to develop best products and services powered by machine learning, TechCrunch reported on Thursday.
+
+Initial financial help will come from these companies and as other stakeholders join the group, the finances are expected to increase.
+
+"We want to involve people impacted by AI as well," Mustafa Suleyman, co-founder and head of applied AI at DeepMind, a subsidiary of Alphabet (parent company of Google), was quoted as saying.
+
+According to the report, the organisational structure has been designed to allow non-corporate groups to have equal leadership side-by-side with large tech companies.
+
+"The power of AI is in the enterprise sector. For society at-large to get the benefits of AI, we first have to trust it," Francesca Rossi, AI ethics researcher at IBM Research, told Tech Crunch.
+
+AI-powered bots will become the next interface, shaping our interactions with the applications and devices we rely on and Microsoft's latest solutions are set to change the way HP interacts with its customers and partners, Microsoft's Indian-born Microsoft CEO Satya Nadella said recently.
+
+At Microsoft's Worldwide Partner Conference in August, Nadella had said that AI-powered chatbots will "fundamentally revolutionise how computing is experienced by everybody."

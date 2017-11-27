@@ -1,0 +1,26 @@
+WhatsApp to Ignore Delhi High Court Ruling; Will Share Data With Facebook as Planned
+Defying a Delhi High Court order against sharing user data collected up to September 25 with its parent company Facebook, the mobile message service WhatsApp has said that it is going to share information with Facebook as planned.
+
+According to Mashable, the Delhi High Court's order "hasn't impacted its planned changes in WhatsApp's terms and privacy policy."
+
+"The ruling has no impact on the planned policy and terms of service updates," WhatsApp spokesperson Anne Yeh was quoted as saying in a statement on Thursday.
+
+Earlier, a division bench of Chief Justice G. Rohini and Justice Sangita Dhingra Sehgal said on September 23 that WhatsApp will not share users' data collected under its old privacy policy over the years up to September 25, 2016, with Facebook or any other related company.
+
+(Also see: WhatsApp Tells Delhi High Court Its New Policy Doesn't Infringe on User Privacy)
+
+WhatsApp has to completely delete all data of users who chooses to opt out of the instant messaging app after the coming into force of its new privacy policy, said the court.
+
+The court also said that WhatsApp will delete users' data up to September 25, even of those who choose not to opt out of the instant messaging app and agree with new privacy policy.
+
+"We have taken note of the fact that under the privacy policy of WhatsApp, the users are given an option to delete their WhatsApp account at any time, in which event, the information of the users would be deleted from the the servers of WhatsApp," the bench said.
+
+"We are, therefore, of the view that it is always open to the existing users of WhatsApp, who do not want their information to be shared with Facebook, to opt for deletion of their account," it had observed.
+
+The court also directed the government to consider the issue of functioning of instant messaging apps such as WhatsApp and take an appropriate decision as to whether it is feasible to bring them under the statutory regulatory framework.
+
+(Also see: Facebook Says Will Appeal German Order to Delete WhatsApp User Data)
+
+On August 25, WhatsApp made extensive changes to its privacy policy. Under the new norm, it announced it would and could share users' personal information, including their phone numbers, with its parent company Facebook.
+
+WhatsApp had given its users 30-days to opt out of the new privacy policy which expired on September 25.

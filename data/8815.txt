@@ -1,0 +1,16 @@
+1.6 cr calls still failing everyday between Airtel and us: RJio
+Hitting back at Airtel’s allegations of being “under-prepared”, new player Reliance Jio today said it had given projections of its required number of points of interconnection to the rival three months in advance. Reliance Jio said it has been consistently following up with Airtel and other incumbent operators over the last several months for augmentation of interconnection capacity.
+
+“In anticipation of such demand for services, Reliance Jio had given its projections for POI requirement to Airtel over three months ago. The massive deterioration in quality of service parameters would not have occurred had Airtel augmented POIs on a timely basis,” it alleged.
+
+These requests had been denied by Airtel and the other incumbent operators as part of their anti-competitive strategy and in complete breach of their licence conditions, it added. This, Reliance Jio said, has resulted in “unprecedented call failures” between Airtel and itself.
+
+“It may be noted that there are no call failures in Jio-to-Jio calls, while over 1.6 crore calls are still failing every day between Airtel and Jio,” it added.
+
+Reliance Jio, which has commercially launched its 4G services, has accused dominant incumbent operators, including Airtel, Vodafone and Idea of providing far less than adequate PoIs needed for its users to complete a call to a rival network, while the operators have charged the new entrant of unleashing a “tsunami” of free traffic on their networks.
+
+Telecom regulator TRAI, which had asked the operators to submit their network congestion details from September 15-19, 2016, to examine the congestion issue, yesterday decided to issue showcause notices on operators for call drops far exceeding the norms.
+
+“As against allegation of under-preparedness and insufficient testing teams and efforts, reality is that work has not been held up at Reliance Jio’s end even briefly. Transmission media of Reliance Jio has been ready and operational for several months now,” it said.
+
+Airtel today blamed Reliance Jio itself for network connectivity issues and call failures, saying they are due to Jio’s own “under-preparedness”, insufficient testing efforts and acquiring a large number of customers at the pre-launch stage itself.

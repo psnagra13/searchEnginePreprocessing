@@ -1,0 +1,54 @@
+US prepares to give up key role as overseer of the internet
+The US government is set to cut the final thread of its oversight of the internet, yielding a largely symbolic but nevertheless significant role over the online address system.
+
+Barring any last-minute glitches, the transition will occur at midnight Friday (0400 GMT Saturday), when the US contract expires for the Internet Corporation for Assigned Names and Numbers, which manages the internet’s so-called “root zone.”
+
+When the agreement with the US Commerce Department runs out, ICANN will become a self-regulating non-profit international entity managing the Internet Assigned Numbers Authority, the system for online “domains” such as .com.
+
+US and ICANN officials say the change is part of a longstanding plan to “privatize” those functions, but some critics complain about a “giveaway” that could threaten the internet’s integrity.
+
+Christopher Mondini, ICANN’s vice president for global business engagement, said the change will have no impact on day-to-day internet use, and will assure the global community that the system is free from government regulation and interference.
+
+“This is a new kind of governance model,” he told AFP.
+
+The system will be managed through a “multi-stakeholder” model in which engineers, businesses, non-government groups and government bodies serve as checks against any single entity.
+
+If any of the groups that make up ICANN see the organization veering away from its mission, Mondini said, “they can initiate measures to self-correct.”
+
+‘Byzantine’ structure
+
+Some US lawmakers who see risks with the model have sought to stop the transition, arguing it would allow authoritarian regimes to have greater control over the internet.
+
+Republican Senator Ted Cruz has been seeking to block what he calls a “radical” plan to give away control of the internet.
+
+ICANN “is not a democratic body,” Cruz told a hearing earlier this month.
+
+“It is a corporation with a Byzantine governing structure designed to blur lines of accountability that is run by global bureaucrats who are supposedly accountable to the technocrats, to multinational corporations, to governments, including some of the most oppressive regimes in the world like China, Iran, and Russia.”
+
+Heritage Foundation president Jim DeMint echoed that sentiment, saying in a tweet that President Barack Obama “wants to cede US control of our free, secure internet to foreign regimes who don’t value freedom of speech.”
+
+‘Strengthening’ internet
+
+Supporters of the plan counter that critics’ harsh rhetoric fails to recognize how the internet has functioned and thrived over the years.
+
+“This transition has been built upon a bipartisan consensus for almost 20 years through multiple administrations,” said Kathryn Brown, president of the Internet Society, which was created by some of the internet’s founders.
+
+“The transition will further strengthen the internet as a stable, resilient and secure tool for empowering billions of people across the globe for decades to come.”
+
+Google senior vice president Kent Walker also endorsed the shift, saying it would “fulfill a promise the United States made almost two decades ago: that the internet could and should be governed by everyone with a stake in its continued growth.”
+
+Six Democratic US lawmakers meanwhile warned of the dangers if Washington fails to follow through on its pledge to disengage.
+
+“The internet belongs to the world, not to Ted Cruz,” Senators Brian Schatz and Chris Coons, and Representatives Anna Eshoo, Doris Matsui, Frank Pallone and Mike Doyle said in an article for the TechCrunch news site.
+
+“If the Republicans successfully delay the transition, America’s enemies are sure to pounce. Russia and its allies could push to shift control of the internet’s core functions to a government body like the UN where they have more influence.”
+
+Any delay could fuel interest in a rival numbering system that could fragment the internet into possibly unconnected networks, they added.
+
+Cruz and his allies have unsuccessfully sought to attach an amendment to a government funding bill aimed at halting the transition.
+
+The transition should go forward even if it is “imperfect,” said Daniel Castro, vice president at the Information Technology and Innovation Foundation.
+
+“US government interference at this point would undermine global consensus and reduce confidence in the multi-stakeholder model at a time when these attributes are needed most,” he said in a blog post.
+
+The transition “marks a key ‘constitutional moment’ for internet governance,” he added, “and the United States should ensure it is on the right side of history.”
