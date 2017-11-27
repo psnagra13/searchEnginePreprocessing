@@ -1,10 +1,14 @@
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.util.*;
 import java.util.stream.Stream;
 
@@ -16,7 +20,7 @@ public class ReadAll {
 	private static Map<String, List<String>> invertedIndex = new HashMap(); 
 	private static Map<String, List<String>> invertedIndex2 = new HashMap(); 
 	
-	public static void main(String []args) throws IOException 
+	public static void main(String []args) throws IOException, ClassNotFoundException 
 	{
 //		 writeToFile();
 		
@@ -43,13 +47,6 @@ public class ReadAll {
 		
 		
 		
-//		List<String> al = new ArrayList<>();
-//		// add elements to al, including duplicates
-//		Set<String> hs = new HashSet<>();
-//		hs.addAll(al);
-//		al.clear();
-//		al.addAll(hs);
-		
 		for (String key : invertedIndex.keySet()) {
 			
 			List<String> al= invertedIndex.get(key);
@@ -62,13 +59,29 @@ public class ReadAll {
 		    
 		}
 		
-		System.out.println(invertedIndex2);
+//		System.out.println(invertedIndex2);
+		saveFile(invertedIndex2);
+		
+		readFile();
 				
 	}
 	
-	
+	public static void saveFile(Map<String, List<String>> invertedIndex22)
+            throws IOException
+    {
+        try (ObjectOutputStream os = new ObjectOutputStream(new FileOutputStream("invertedIndex.txt"))) {
+            os.writeObject(invertedIndex22);
+            System.out.println("here");
+        }
+    }
 
-	
+    public static void readFile()
+            throws ClassNotFoundException, IOException
+    {
+        try (ObjectInputStream is = new ObjectInputStream(new FileInputStream("invertedIndex.txt"))) {
+            System.out.println( is.readObject());
+        }
+    }
 	
 	public static void createIndex(List l,String sno)
 	{
@@ -90,15 +103,6 @@ public class ReadAll {
 		
 		
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 	
